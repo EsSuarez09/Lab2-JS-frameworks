@@ -7,6 +7,7 @@ https://github.com/EsSuarez09/Lab2-JS-frameworks
 
 **#DEMO link**
 https://essuarez09.github.io/Lab2-JS-frameworks/
+-There's no front end for this lab yet.
 
 
 
